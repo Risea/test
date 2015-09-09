@@ -2,6 +2,7 @@ public class test{
   
   public static void main(String[] args){
     System.out.print("Hello GitHub! My name is Seands.");
+    System.out.print("msysGit update file 2");
   }
   
 }
