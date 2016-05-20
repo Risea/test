@@ -4,3 +4,5 @@ git add * 		递归跟踪当前文件夹下的所有文件及子文件
 git diff		尚未缓存的改动
 git diff --cached	显示已缓存的改动
 git diff HEAD	显示已缓存和未缓存的改动
+
+git commit -m ''	提交内容 并附带注释
